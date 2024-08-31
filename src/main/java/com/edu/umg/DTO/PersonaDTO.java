@@ -8,7 +8,7 @@ package com.edu.umg.DTO;
  *
  * @author Wilson Aguin
  */
-//Prueba desde PC
+//Prueba desde Laptop
 public class PersonaDTO {
     private int idPersona;
     private String nombre;
